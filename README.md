@@ -13,14 +13,10 @@
 
 | Page | Preview |
 |------|---------|
-| 🏠 Home | *<img width="1918" height="907" alt="Screenshot 2026-06-28 225413" src="https://github.com/user-attachments/assets/108bb905-6b4e-45b8-80d4-ec9ed45fe5aa" />
-* |
-| 📚 Concepts | *<img width="1918" height="910" alt="Screenshot 2026-06-28 225435" src="https://github.com/user-attachments/assets/a502a693-3092-4462-8ebf-6f7ca9af4c7d" />
-* |
-| 💹 Live Prices | *<img width="1918" height="906" alt="Screenshot 2026-06-28 225458" src="https://github.com/user-attachments/assets/9ba68fc0-f14c-4860-b1df-7c3c16befcf5" />
-* |
-| ⛏️ Block Simulator | *<img width="1918" height="907" alt="Screenshot 2026-06-28 225525" src="https://github.com/user-attachments/assets/536ba4d5-5465-4964-a4b4-70824445aabf" />
-* |
+| 🏠 Home | *<img width="1918" height="907" alt="Screenshot 2026-06-28 225413" src="https://github.com/user-attachments/assets/108bb905-6b4e-45b8-80d4-ec9ed45fe5aa" />* |
+| 📚 Concepts | *<img width="1918" height="910" alt="Screenshot 2026-06-28 225435" src="https://github.com/user-attachments/assets/a502a693-3092-4462-8ebf-6f7ca9af4c7d" />* |
+| 💹 Live Prices | *<img width="1918" height="906" alt="Screenshot 2026-06-28 225458" src="https://github.com/user-attachments/assets/9ba68fc0-f14c-4860-b1df-7c3c16befcf5" />* |
+| ⛏️ Block Simulator | *<img width="1918" height="907" alt="Screenshot 2026-06-28 225525" src="https://github.com/user-attachments/assets/536ba4d5-5465-4964-a4b4-70824445aabf" />* |
 
 ---
 
