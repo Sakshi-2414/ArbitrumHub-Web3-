@@ -63,7 +63,7 @@ export default function Navbar() {
           {/* CTA */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="https://github.com"
+              href="https://github.com/Sakshi-2414"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary text-sm px-4 py-2 flex items-center gap-2"
@@ -110,7 +110,7 @@ export default function Navbar() {
             ))}
             <div className="pt-2 px-1">
               <a
-                href="https://github.com"
+                href="https://github.com/Sakshi-2414"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-secondary w-full text-sm py-2.5 flex items-center justify-center gap-2"

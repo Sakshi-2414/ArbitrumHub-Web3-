@@ -65,7 +65,7 @@ export default function Footer() {
                 { label: 'Arbitrum Docs',   href: 'https://docs.arbitrum.io' },
                 { label: 'CoinGecko API',   href: 'https://www.coingecko.com/en/api' },
                 { label: 'LamprosDAO',      href: 'https://github.com/lamprosdao' },
-                { label: 'GitHub Repo',     href: 'https://github.com' },
+                { label: 'GitHub Repo',     href: 'https://github.com/Sakshi-2414/ArbitrumHub-Web3-' },
               ].map(({ label, href }) => (
                 <li key={label}>
                   <a
